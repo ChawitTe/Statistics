@@ -1,3 +1,3 @@
 # Statistics
 
-R code for do statistics
+R code for doing statistics
